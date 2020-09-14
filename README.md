@@ -1,4 +1,4 @@
-# Wireless_Study
+# Wireless_Study 무선랜 공부
 
 
-### 업데이트
+### 공부한 내용 업데이트
